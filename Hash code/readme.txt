@@ -1,8 +1,0 @@
-We are having trouble decoding these hashes
-
-Each One is 10 Points
-63a9f0ea7bb98050796b649e85481845
-5f4dcc3b5aa765d61d8327deb882cf99
-55f195813a158d82e2934cfac569575d
-063b5c9366d6d1b77df6d8492c8c3c42
-f3991b5f451adaf5279d09fca06a0326
