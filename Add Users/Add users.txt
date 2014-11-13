@@ -1,0 +1,9 @@
+Congratulations your business is growing at a rapid pace!
+However some people are having trouble making accounts
+Please add these users and give them the correct Authorization on both the web server and AD
+
+ Username: TheBoyWhoLived Password:Potter - make him an Administrator
+Username: mattsullivan Password: Merlin - Poster
+Username: Superuser Password:password -regular user
+Username: eigenvector Password: iknowmath -Moderator
+Username: NotAHacker Password:tracert
